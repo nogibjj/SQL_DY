@@ -10,6 +10,12 @@ The highest profile game I have officied is the pre-season clash between two Chi
 
 This project is focuing on creating SQLite3 database via codespaces by using the data I have collected by my own through out the years. Then try to gain insights from .db database using SQL queries.
 
+### Photo of pre-game
+
+![Chengdu_v_Henan](https://user-images.githubusercontent.com/81750079/200147381-44ef69ce-5cee-49f9-b163-aab569a6556d.JPG)
+
+
+### Photos of officiating pre-season Sichuan Derby
 ![Sichuan Derby](https://user-images.githubusercontent.com/81750079/200147121-3ab4f19f-9b64-4f64-bf44-fb1b056a5533.JPG)
 
 
