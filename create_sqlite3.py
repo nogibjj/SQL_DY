@@ -25,6 +25,20 @@ with open("Game Report.csv", "r") as f:
             row,
         )
 
+# Append 2021 Data
+with open("Game Report_2021.csv", "r") as f:
+    reader = csv.reader(f)
+    # Skip the header row
+    next(reader)
+    # Read data row by row
+    for row in reader:
+        # Insert data
+        cursor.execute(
+            "INSERT INTO games VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+            row,
+        )
+
+
 # Save (commit) the changes
 db.commit()
 
