@@ -21,7 +21,9 @@ Wikipedia of Chinese Super League: https://en.wikipedia.org/wiki/Chinese_Super_L
 ![Sichuan Derby RR](https://user-images.githubusercontent.com/81750079/200147137-6aeaa175-d555-4d5b-b851-d1f876cb6063.JPG)
 
 
-### This project is focuing on creating SQLite3 database via codespaces by using the data I have collected by my own through out the years. Then try to gain insights from .db database using SQL queries.
+### Objective of this project
+
+This project is focuing on creating SQLite3 database via codespaces by using the data I have collected by my own through out the years. Then try to gain insights from .db database using SQL queries.
 
 
 ### Inisghts Table
