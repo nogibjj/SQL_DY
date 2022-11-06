@@ -6,7 +6,7 @@ test:
 	python -m pytest -vv *.py 
 
 format:	
-	black *.py
+	black *.py *.ipynb
 
 lint:
 	pylint --disable=R,C --ignore-patterns=test_.*?py *.py 
