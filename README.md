@@ -31,10 +31,10 @@ Wikipedia of Chinese Super League: https://en.wikipedia.org/wiki/Chinese_Super_L
 The proudest game I have officiated as Referee is the derby between my local teams in Sichuan, Chengdu Rongcheng 4:2 Sichuan Jiuniu on April 29, 2022. 
 
 #### Photos of officiating pre-season Sichuan Derby (Chinese Super League Team vs China League One Team)
-![Sichuan Derby](https://user-images.githubusercontent.com/81750079/200147121-3ab4f19f-9b64-4f64-bf44-fb1b056a5533.JPG)
+<img width="817" alt="Sichuan Derby" src="https://user-images.githubusercontent.com/81750079/200147121-3ab4f19f-9b64-4f64-bf44-fb1b056a5533.JPG">
 
 
-![Sichuan Derby RR](https://user-images.githubusercontent.com/81750079/200147137-6aeaa175-d555-4d5b-b851-d1f876cb6063.JPG)
+<img width="817" alt="Sichuan Derby RR" src="https://user-images.githubusercontent.com/81750079/200147137-6aeaa175-d555-4d5b-b851-d1f876cb6063.JPG">
 
 
 
@@ -56,10 +56,10 @@ The proudest game I have officiated as Referee is the derby between my local tea
 成都龙耀 v 德驰娱乐 Game Photos:
 
 Referee Trio
-![IMG_3803](https://user-images.githubusercontent.com/81750079/200149471-40380f5a-563e-4b82-860b-f08afe8974bf.JPG)
+<img width="817" alt="Referee Trio" src="https://user-images.githubusercontent.com/81750079/200149471-40380f5a-563e-4b82-860b-f08afe8974bf.JPG">
 
-![AAOX6445](https://user-images.githubusercontent.com/81750079/200149390-62858c82-608c-4c5a-9a76-bda09c07010b.JPG)
-![IMG_3807](https://user-images.githubusercontent.com/81750079/200149482-1eabfc0d-3c7e-4513-8b6a-dfd32f6dd0e3.JPG)
+<img width="817" alt="Game photo 1" src="https://user-images.githubusercontent.com/81750079/200149390-62858c82-608c-4c5a-9a76-bda09c07010b.JPG">
+<img width="817" alt="Game photo 2" src="https://user-images.githubusercontent.com/81750079/200149482-1eabfc0d-3c7e-4513-8b6a-dfd32f6dd0e3.JPG">
 
 
 **The most distance covered in a game as a referee was 9.90 kilometers, 成都之己 v 成都大学 (Score:2:2, 成超 22 Season YC: 2, 2nd YC: 0, and RC: 0) on 7/3/22 at 城东体育公园.**
@@ -67,8 +67,8 @@ Referee Trio
 成都之己 v 成都大学 Game Photos:
 
 Pre-game Photo:
-![IMG_4878](https://user-images.githubusercontent.com/81750079/200149441-5fa36e85-c51c-45cf-9eb4-660243599ce5.JPG)
+<img width="817" alt="Pre-game photo" src="https://user-images.githubusercontent.com/81750079/200149441-5fa36e85-c51c-45cf-9eb4-660243599ce5.JPG">
 
 Ending of the game:
-![IMG_4889](https://user-images.githubusercontent.com/81750079/200149424-79496ab9-6e3e-4ac4-a547-83ee09d03b81.PNG)
+<img width="817" alt="Ending of the game photo" src="https://user-images.githubusercontent.com/81750079/200149424-79496ab9-6e3e-4ac4-a547-83ee09d03b81.PNG">
 
