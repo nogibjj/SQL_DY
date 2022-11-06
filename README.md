@@ -16,24 +16,25 @@ This project is focuing on creating SQLite3 database via codespaces by using the
 ![SQL](https://user-images.githubusercontent.com/81750079/200150983-6c19b2f5-b1ec-46c9-826d-e97245d39092.jpg)
 
 
+### Fun Facts
+
 The highest profile game I have officied is the 2022 pre-season clash between two Chinese Super League (TOP 1 professional soccer league in China), Chengdu Rongcheng FC 1:1 Henan Songshan Longmen FC on April 27, 2022. 
 
 Wikipedia of Chinese Super League: https://en.wikipedia.org/wiki/Chinese_Super_League
 
 
-### Photo of pre-game
+#### Photo of pre-game
 
 ![Chengdu_v_Henan](https://user-images.githubusercontent.com/81750079/200147381-44ef69ce-5cee-49f9-b163-aab569a6556d.JPG)
 
 
 The proudest game I have officiated as Referee is the derby between my local teams in Sichuan, Chengdu Rongcheng 4:2 Sichuan Jiuniu on April 29, 2022. 
 
-### Photos of officiating pre-season Sichuan Derby (Chinese Super League Team vs China League One Team)
+#### Photos of officiating pre-season Sichuan Derby (Chinese Super League Team vs China League One Team)
 ![Sichuan Derby](https://user-images.githubusercontent.com/81750079/200147121-3ab4f19f-9b64-4f64-bf44-fb1b056a5533.JPG)
 
 
 ![Sichuan Derby RR](https://user-images.githubusercontent.com/81750079/200147137-6aeaa175-d555-4d5b-b851-d1f876cb6063.JPG)
-
 
 
 
