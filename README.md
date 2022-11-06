@@ -38,6 +38,12 @@ The proudest game I have officiated as Referee is the derby between my local tea
 <img width="817" alt="Sichuan Derby RR" src="https://user-images.githubusercontent.com/81750079/200147137-6aeaa175-d555-4d5b-b851-d1f876cb6063.JPG">
 
 
+### Querry Demo
+
+[demo.ipynb](https://github.com/nogibjj/SQL_DY/blob/main/demo.ipynb)
+
+*Command Line Python Script*
+<code>python sql.py</code>
 
 ### Inisghts Table
 
@@ -47,6 +53,7 @@ The proudest game I have officiated as Referee is the derby between my local tea
 | How many 8vs8 games I have officiated between Jan. 2021 and July 2022?   | 80        |
 | How many games I have officiated as Referee between Jan. 2021 and July 2022?   |108        |
 | How many games I have officiated as Assistant Referee between Jan. 2021 and July 2022?   | 37        |
+| How many games I have officiated as 4TH Official between Jan. 2021 and July 2022?   | 82        |
 | How many Yellow Cards I have shown as Referee between Jan. 2021 and July 2022?   | 182        |
 | How many Red Cards I have shown as Referee between Jan. 2021 and July 2022?   | 8        |
 | How many Yellow Cards per game when I officiate as Referee between Jan. 2021 and July 2022?   | 1.69        |
