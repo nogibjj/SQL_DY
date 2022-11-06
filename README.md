@@ -5,6 +5,12 @@
 
 Piror to MIDS program at Duke, I have been climbing referee rank ladder in China from 2019 to 2022 (2018 in the U.S., yes, I am a USSF referee as well).
 
+
+### Objective of this project
+
+This project is focuing on creating SQLite3 database via codespaces by using the data I have collected by my own through out the years. Then try to gain insights from .db database using SQL queries.
+
+
 The highest profile game I have officied is the 2022 pre-season clash between two Chinese Super League (TOP 1 professional soccer league in China), Chengdu Rongcheng FC vs Henan Songshan Longmen FC on April 29, 2022
 
 
@@ -21,9 +27,6 @@ Wikipedia of Chinese Super League: https://en.wikipedia.org/wiki/Chinese_Super_L
 ![Sichuan Derby RR](https://user-images.githubusercontent.com/81750079/200147137-6aeaa175-d555-4d5b-b851-d1f876cb6063.JPG)
 
 
-### Objective of this project
-
-This project is focuing on creating SQLite3 database via codespaces by using the data I have collected by my own through out the years. Then try to gain insights from .db database using SQL queries.
 
 
 ### Inisghts Table
