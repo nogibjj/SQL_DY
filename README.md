@@ -9,12 +9,14 @@ The highest profile game I have officied is the pre-season clash between two Chi
 
 This project is focuing on creating SQLite3 database via codespaces by using the data I have collected by my own through out the years. Then try to gain insights from .db database using SQL queries.
 
+
 ### Inisghts Table
 
 | Questions      | Answer |
-| ----------- | ----------- |
+| :---        |          ---: |
 | How many 11vs11 games I have officiated between Jan. 2021 and July 2022?      | 129       |
 | How many 8vs8 games I have officiated between Jan. 2021 and July 2022?   | 80        |
+
 
 
 ### Photo of pre-game
