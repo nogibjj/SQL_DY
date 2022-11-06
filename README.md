@@ -55,7 +55,7 @@ The proudest game I have officiated as Referee is the derby between my local tea
 
 #### Most Cards Shown in One Game
 
-**The most cards shown in a game as a referee was 11, (YC: 9, 2nd YC: 2, and RC: 2), 成都龙耀 v 德驰娱乐 (Score:1:2, 成甲总Semi-Final) on 1/16/22 at 锦江仁德 A4. My running distance was 8.13 kilometers. Other officials were: 秦立港、李阳、李飞.**
+**The most cards shown in a game as a referee was 11, (YC: 9, 2nd YC: 2, and RC: 2), 成都龙耀 v 德驰娱乐 (Final Score: 1:2, 成甲总Semi-Final) on 1/16/22 at 锦江仁德 A4. My running distance was 8.13 kilometers. Other officials were: 秦立港、李阳、李飞.**
 
 成都龙耀 v 德驰娱乐 Game Photos:
 
@@ -69,7 +69,7 @@ The proudest game I have officiated as Referee is the derby between my local tea
   
 #### Most Distance Covered in One Game
 
-**The most distance covered in a game as a referee was 9.90 kilometers, 成都之己 v 成都大学 (Score:2:2, 成超 22 Season YC: 2, 2nd YC: 0, and RC: 0) on 7/3/22 at 城东体育公园.**
+**The most distance covered in a game as a referee was 9.90 kilometers, 成都之己 v 成都大学 (Final Score: 2:2, 成超 2022 Season Gameday 8; YC: 2, 2nd YC: 0, and RC: 0) on 7/3/22 at 城东体育公园.**
 
 成都之己 v 成都大学 Game Photos:
 
