@@ -25,7 +25,7 @@ Wikipedia of Chinese Super League: https://en.wikipedia.org/wiki/Chinese_Super_L
 
 #### Photo of pre-game
 
-![Chengdu_v_Henan](https://user-images.githubusercontent.com/81750079/200147381-44ef69ce-5cee-49f9-b163-aab569a6556d.JPG)
+<img width="817" alt="Chengdu_v_Henan" src="https://user-images.githubusercontent.com/81750079/200147381-44ef69ce-5cee-49f9-b163-aab569a6556d.JPG">
 
 
 The proudest game I have officiated as Referee is the derby between my local teams in Sichuan, Chengdu Rongcheng 4:2 Sichuan Jiuniu on April 29, 2022. 
