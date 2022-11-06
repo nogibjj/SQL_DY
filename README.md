@@ -18,7 +18,7 @@ This project is focuing on creating SQLite3 database via codespaces by using the
 
 ### Fun Facts
 
-The highest profile game I have officied is the 2022 pre-season clash between two Chinese Super League (TOP 1 professional soccer league in China), Chengdu Rongcheng FC 1:1 Henan Songshan Longmen FC on April 27, 2022. 
+The highest profile game I have officied is the 2022 pre-season clash between two Chinese Super League teams (TOP 1 professional soccer league in China), Chengdu Rongcheng FC 1:1 Henan Songshan Longmen FC on April 27, 2022. 
 
 Wikipedia of Chinese Super League: https://en.wikipedia.org/wiki/Chinese_Super_League
 
@@ -53,7 +53,7 @@ The proudest game I have officiated as Referee is the derby between my local tea
 | How many 8vs8 games I have officiated between Jan. 2021 and July 2022?   | 80        |
 | How many games I have officiated as Referee between Jan. 2021 and July 2022?   |108        |
 | How many games I have officiated as Assistant Referee between Jan. 2021 and July 2022?   | 37        |
-| How many games I have officiated as 4TH Official between Jan. 2021 and July 2022?   | 82        |
+| How many games I have officiated as 4th Official between Jan. 2021 and July 2022?   | 82        |
 | How many Yellow Cards I have shown as Referee between Jan. 2021 and July 2022?   | 182        |
 | How many Red Cards I have shown as Referee between Jan. 2021 and July 2022?   | 8        |
 | How many Yellow Cards per game when I officiate as Referee between Jan. 2021 and July 2022?   | 1.69        |
