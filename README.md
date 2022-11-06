@@ -13,7 +13,7 @@ This project is focuing on creating SQLite3 database via codespaces by using the
 ### Inisghts Table
 
 | Questions      | Answer |
-| :---        |          ---: |
+| --- :---        |   ---: --- |
 | How many 11vs11 games I have officiated between Jan. 2021 and July 2022?      | 129       |
 | How many 8vs8 games I have officiated between Jan. 2021 and July 2022?   | 80        |
 
