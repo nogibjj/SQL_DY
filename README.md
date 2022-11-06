@@ -13,10 +13,19 @@ This project is focuing on creating SQLite3 database via codespaces by using the
 ### Inisghts Table
 
 | Questions      | Answer |
-| --- :---        |   ---: --- |
+|:---        |        ---:|
 | How many 11vs11 games I have officiated between Jan. 2021 and July 2022?      | 129       |
 | How many 8vs8 games I have officiated between Jan. 2021 and July 2022?   | 80        |
+| How many games I have officiated as Referee between Jan. 2021 and July 2022?   |108        |
+| How many games I have officiated as Assistant Referee between Jan. 2021 and July 2022?   | 37        |
+| How many Yellow Cards I have shown as Referee between Jan. 2021 and July 2022?   | 182        |
+| How many Red Cards I have shown as Referee between Jan. 2021 and July 2022?   | 8        |
+| How many Yellow Cards per game when I officiate as Referee between Jan. 2021 and July 2022?   | 1.69        |
+| How many Red Cards per game when I officiate as Referee between Jan. 2021 and July 2022?   | 0.07        |
 
+The most cards shown in a game as a referee was 11, (YC: 9, 2nd YC: 2, and RC: 2), 成都龙耀 v 德驰娱乐 (Score:1:2, 成甲总Semi-Final) on 1/16/22 at 锦江仁德 A4. My running distance was 8.13 kilometers. Other officials were: 秦立港、李阳、李飞.
+
+The most distance covered in a game as a referee was 9.90 kilometers, 成都之己 v 成都大学 (Score:2:2, 成超 22 Season YC: 2, 2nd YC: 0, and RC: 0) on 7/3/22 at 城东体育公园.
 
 
 ### Photo of pre-game
