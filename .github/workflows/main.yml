@@ -1,15 +1,21 @@
 name: Continuous Integration
-on: [push]
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: test build-Build and run dev container task
-      uses: devcontainers/ci@v0.2
-      with:
-        runCmd: |
-          make install
-          make lint
-          make test
-          make format
+      - uses: actions/checkout@v3
+      - name: install packages
+        run: make install
+      - name: lint
+        run: make lint
+      - name: test
+        run: make test
+      - name: format
+        run: make format
