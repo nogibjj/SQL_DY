@@ -25,17 +25,3 @@ if len(columns) != 31:
     exit(1)
 else:
     print("Table 'games' has the correct number of columns")
-
-
-# ##Insert all data into the new table
-# connects = sqlite3.connect('test.db')
-# insert_query = 'INSERT INTO users (FIRST_NAME, last_name) VALUES (?, ?)'
-# cursor = connection.cursor()
-# for name in names:
-#     cursor.execute(insert_query, name)
-# connects.commit()
-
-##Select each record from the table
-# select_query = 'SELECT * FROM users LIMIT 5'
-# for i in cursor.execute(select_query):
-#     print(i)
