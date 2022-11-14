@@ -3,7 +3,7 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest -vv *.py 
+	python -m pytest -vv testing.py 
 
 format:	
 	black *.py *.ipynb
