@@ -15,7 +15,7 @@ cursor.execute(
 )
 
 # Read the CSV file
-with open("Game Report.csv", "r") as f:
+with open("Game Report.csv", "r", encoding="utf-8") as f:
     reader = csv.reader(f)
     # Skip the header row
     next(reader)
@@ -28,7 +28,7 @@ with open("Game Report.csv", "r") as f:
         )
 
 # Append 2021 Data
-with open("Game Report_2021.csv", "r") as f:
+with open("Game Report_2021.csv", "r", encoding="utf-8") as f:
     reader = csv.reader(f)
     # Skip the header row
     next(reader)
